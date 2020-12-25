@@ -1,1 +1,1 @@
-# Satellite-Data-Classification-using-Random-Forest-Classifier
+# Satellite-data-classification-using-Random-Forest-Classifier
