@@ -9,8 +9,6 @@ We can observe that boundary of the segments overlaps the contour features
 ## Classification Features
 ![](images/4.png)
 ## Manually Plotted Labelled Features
-![](images/5.png)
-## Manually Plotted Labelled Features
 ![](images/7.png)
 ## Final Classified Satellite Image
 ![](images/6.png)
